@@ -1,1 +1,3 @@
-# advanced_attacks
+# Advanced BadNets
+
+Evaluation script coming up soon
