@@ -1,3 +1,3 @@
 # Advanced BadNets
 
-Evaluation script coming up soon
+BadNets used in the paper are made pulic in this repo.
